@@ -21,3 +21,10 @@ The Mood-Based Music Explorer is a Streamlit application that allows users to di
 1. **Python 3.7 or higher**: Make sure you have Python installed on your machine.
 2. **Spotify Developer Account**: Create an account at [Spotify Developer Dashboard](https://developer.spotify.com/dashboard/).
 3. **Create a Spotify App**: Obtain your `client_id` and `client_secret` by creating a new app in the Spotify Developer Dashboard.
+
+### Installation
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Aakansha02/SpotifySongs.git
+   cd SpotifySongs
+
